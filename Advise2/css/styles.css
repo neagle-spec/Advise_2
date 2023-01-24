@@ -1,0 +1,22 @@
+body {
+    background-color: whitesmoke;
+}
+.btn-primary {
+    margin-top: 2em;
+    background-color: #2b542c;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #2ca02c !important;
+}
+h1 {
+    font-weight: 600;
+    color: darkgreen;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
